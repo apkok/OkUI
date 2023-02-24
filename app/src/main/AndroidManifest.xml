@@ -22,6 +22,7 @@
         </activity>
 
         <activity android:name=".demo.tab.OkTabBottomDemoActivity"/>
+        <activity android:name=".demo.tab.OkTabTopDemoActivity"/>
     </application>
 
 </manifest>
